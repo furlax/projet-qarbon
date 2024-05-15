@@ -1,0 +1,68 @@
+[
+    {
+        "model": "api.place",
+        "pk": 1,
+        "fields": {
+            "name": "HEG bat. A",
+            "street": "Rue de la Tambourine",
+            "number": 45,
+            "postal_code": 1227,
+            "locality": "Carouge"
+        }
+    },
+    {
+        "model": "api.place",
+        "pk": 2,
+        "fields": {
+            "name": "Maison",
+            "street": "Rue du Cendrier",
+            "number": 14,
+            "postal_code": 1204,
+            "locality": "Genève"
+        }
+    },
+    {
+        "model": "api.place",
+        "pk": 3,
+        "fields": {
+            "name": "Maison de quartier des Eaux-Vives",
+            "street": "Rue du 31 décembre",
+            "number": 12,
+            "postal_code": 1206,
+            "locality": "Eaux-Vives"
+        }
+    },
+    {
+        "model": "api.place",
+        "pk": 4,
+        "fields": {
+            "name": "Theatre de l'alhambra",
+            "street": "Rue de la Rotisserie",
+            "number": 8,
+            "postal_code": 1204,
+            "locality": "Genève"
+        }
+    },
+    {
+        "model": "api.place",
+        "pk": 5,
+        "fields": {
+            "name": "Theatre du Léman",
+            "street": "Rue du Léman",
+            "number": 48,
+            "postal_code": 1201,
+            "locality": "Paquis"
+        }
+    },
+    {
+        "model": "api.place",
+        "pk": 6,
+        "fields": {
+            "name": "Theatre des Eaux-vives",
+            "street": "Rue du Léman",
+            "number": 48,
+            "postal_code": 1206,
+            "locality": "Eaux-Vives"
+        }
+    }
+]

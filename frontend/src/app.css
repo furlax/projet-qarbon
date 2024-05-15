@@ -1,0 +1,20 @@
+:root {
+    --main-color: #42b983;
+  }
+  
+  body {
+    /* background-color: var(--main-color);  */
+    /* background-image: url('assets/party.png') !important; */
+    background-image: url('assets/party4.png') ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+  }
+  
+  a {
+    color: var(--main-color);
+  }
+  
+  .btn {
+    background-color: var(--main-color);
+  }

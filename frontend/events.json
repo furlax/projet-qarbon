@@ -1,0 +1,86 @@
+[
+    {
+        "model": "api.event",
+        "pk": 1,
+        "fields": {
+            "name": "20 ans Samuel",
+            "description": "Pour celebrer ...",
+            "price": "0.00",
+            "date": "2023-07-20T00:00:00Z",
+            "place": 2,
+            "user": 1
+        }
+    },
+    {
+        "model": "api.event",
+        "pk": 2,
+        "fields": {
+            "name": "21 ans Samuel",
+            "description": "Pour celebrer ...",
+            "price": "0.00",
+            "date": "2024-07-20T00:00:00Z",
+            "place": 2,
+            "user": 1
+        }
+    },
+    {
+        "model": "api.event",
+        "pk": 3,
+        "fields": {
+            "name": "22 ans Samuel",
+            "description": "Pour celebrer ...",
+            "price": "0.00",
+            "date": "2025-07-20T00:00:00Z",
+            "place": 2,
+            "user": 1
+        }
+    },
+    {
+        "model": "api.event",
+        "pk": 4,
+        "fields": {
+            "name": "30 ans de la Maison de quartier",
+            "description": "Pour celebrer ...",
+            "price": "0.00",
+            "date": "2023-05-11T00:00:00Z",
+            "place": 3,
+            "user": 1
+        }
+    },
+    {
+        "model": "api.event",
+        "pk": 5,
+        "fields": {
+            "name": "50 ans de la HEG",
+            "description": "Pour celebrer ...",
+            "price": "0.00",
+            "date": "2023-07-23T00:00:00Z",
+            "place": 1,
+            "user": 1
+        }
+    },
+    {
+        "model": "api.event",
+        "pk": 6,
+        "fields": {
+            "name": "Charlie et la chocolaterie",
+            "description": "piece de théatre interprété...",
+            "price": "13.90",
+            "date": "2023-07-06T00:00:00Z",
+            "place": 4,
+            "user": 1
+        }
+    },
+    {
+        "model": "api.event",
+        "pk": 7,
+        "fields": {
+            "name": "Les trois mousquetaires",
+            "description": "piece de théatre interprété...",
+            "price": "12.90",
+            "date": "2023-06-07T00:00:00Z",
+            "place": 4,
+            "user": 1
+        }
+    }
+]
